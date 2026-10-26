@@ -1,0 +1,95 @@
+{
+  "schema": 2,
+  "version": "2026.10.25-test.1",
+  "files": [
+    {
+      "src": "payload/app/ourcorz_bridge.py",
+      "dest": "app/ourcorz_bridge.py",
+      "mode": "0644"
+    },
+    {
+      "src": "payload/app/www/Music/CORZ-update-test.mp3",
+      "dest": "app/www/Music/CORZ-update-test.mp3",
+      "mode": "0644"
+    },
+    {
+      "src": "payload/app/www/beepz.html",
+      "dest": "app/www/beepz.html",
+      "mode": "0644"
+    },
+    {
+      "src": "payload/app/www/index.html",
+      "dest": "app/www/index.html",
+      "mode": "0644"
+    },
+    {
+      "src": "payload/app/www/leaderboard.html",
+      "dest": "app/www/leaderboard.html",
+      "mode": "0644"
+    },
+    {
+      "src": "payload/app/www/liftz.html",
+      "dest": "app/www/liftz.html",
+      "mode": "0644"
+    },
+    {
+      "src": "payload/app/www/plankz.html",
+      "dest": "app/www/plankz.html",
+      "mode": "0644"
+    },
+    {
+      "src": "payload/app/www/splash.html",
+      "dest": "app/www/splash.html",
+      "mode": "0644"
+    },
+    {
+      "src": "payload/app/www/tenz.html",
+      "dest": "app/www/tenz.html",
+      "mode": "0644"
+    },
+    {
+      "src": "payload/app/www/update-release.json",
+      "dest": "app/www/update-release.json",
+      "mode": "0644"
+    },
+    {
+      "src": "payload/app/www/update-test.html",
+      "dest": "app/www/update-test.html",
+      "mode": "0644"
+    },
+    {
+      "src": "payload/kiosk.sh",
+      "dest": "kiosk.sh",
+      "mode": "0755"
+    },
+    {
+      "src": "payload/runtime/bleserver.py",
+      "dest": "runtime/bleserver.py",
+      "mode": "0644"
+    },
+    {
+      "src": "payload/runtime/hrserver.py",
+      "dest": "runtime/hrserver.py",
+      "mode": "0644"
+    },
+    {
+      "src": "payload/runtime/splash.html",
+      "dest": "runtime/splash.html",
+      "mode": "0644"
+    },
+    {
+      "src": "payload/runtime/updater.py",
+      "dest": "runtime/updater.py",
+      "mode": "0644"
+    },
+    {
+      "src": "payload/runtime/wifi-api.py",
+      "dest": "runtime/wifi-api.py",
+      "mode": "0644"
+    }
+  ],
+  "bundles": [],
+  "delete": [],
+  "restart_services": [],
+  "servers": []
+}
