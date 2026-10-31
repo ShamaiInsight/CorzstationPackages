@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "version": "2026.10.31-dashboard.3",
+  "version": "2026.10.31-dashboard.4",
   "files": [
     {
       "src": "payload/app/ourcorz_bridge.py",
