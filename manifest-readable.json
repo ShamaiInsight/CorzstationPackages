@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "version": "2026.10.31-dashboard.1",
+  "version": "2026.10.31-dashboard.2",
   "files": [
     {
       "src": "payload/app/ourcorz_bridge.py",
@@ -15,6 +15,16 @@
     {
       "src": "payload/app/www/Music/CORZ-update-test.mp3",
       "dest": "app/www/Music/CORZ-update-test.mp3",
+      "mode": "0644"
+    },
+    {
+      "src": "payload/app/www/Music/PR_1.mp3",
+      "dest": "app/www/Music/PR_1.mp3",
+      "mode": "0644"
+    },
+    {
+      "src": "payload/app/www/Music/PR_2.mp3",
+      "dest": "app/www/Music/PR_2.mp3",
       "mode": "0644"
     },
     {
@@ -35,6 +45,11 @@
     {
       "src": "payload/app/www/connectivity.js",
       "dest": "app/www/connectivity.js",
+      "mode": "0644"
+    },
+    {
+      "src": "payload/app/www/hall_of_fame_icon.png",
+      "dest": "app/www/hall_of_fame_icon.png",
       "mode": "0644"
     },
     {
@@ -73,6 +88,11 @@
       "mode": "0644"
     },
     {
+      "src": "payload/app/www/timez_icon.png",
+      "dest": "app/www/timez_icon.png",
+      "mode": "0644"
+    },
+    {
       "src": "payload/app/www/update-release.json",
       "dest": "app/www/update-release.json",
       "mode": "0644"
@@ -80,6 +100,11 @@
     {
       "src": "payload/app/www/update-test.html",
       "dest": "app/www/update-test.html",
+      "mode": "0644"
+    },
+    {
+      "src": "payload/app/www/workout-timer.html",
+      "dest": "app/www/workout-timer.html",
       "mode": "0644"
     },
     {
