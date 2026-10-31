@@ -1,10 +1,15 @@
 {
   "schema": 2,
-  "version": "2026.10.25-test.1",
+  "version": "2026.10.31-dashboard.1",
   "files": [
     {
       "src": "payload/app/ourcorz_bridge.py",
       "dest": "app/ourcorz_bridge.py",
+      "mode": "0644"
+    },
+    {
+      "src": "payload/app/www/10in1_icon_selecable.png",
+      "dest": "app/www/10in1_icon_selecable.png",
       "mode": "0644"
     },
     {
@@ -15,6 +20,21 @@
     {
       "src": "payload/app/www/beepz.html",
       "dest": "app/www/beepz.html",
+      "mode": "0644"
+    },
+    {
+      "src": "payload/app/www/bleep_icon_selected.png",
+      "dest": "app/www/bleep_icon_selected.png",
+      "mode": "0644"
+    },
+    {
+      "src": "payload/app/www/caliionnicon_bluering.png",
+      "dest": "app/www/caliionnicon_bluering.png",
+      "mode": "0644"
+    },
+    {
+      "src": "payload/app/www/connectivity.js",
+      "dest": "app/www/connectivity.js",
       "mode": "0644"
     },
     {
@@ -30,6 +50,11 @@
     {
       "src": "payload/app/www/liftz.html",
       "dest": "app/www/liftz.html",
+      "mode": "0644"
+    },
+    {
+      "src": "payload/app/www/plank_icon.png",
+      "dest": "app/www/plank_icon.png",
       "mode": "0644"
     },
     {
