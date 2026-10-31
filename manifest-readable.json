@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "version": "2026.10.31-dashboard.2",
+  "version": "2026.10.31-dashboard.3",
   "files": [
     {
       "src": "payload/app/ourcorz_bridge.py",
@@ -58,6 +58,11 @@
       "mode": "0644"
     },
     {
+      "src": "payload/app/www/kiosk-input-guard.js",
+      "dest": "app/www/kiosk-input-guard.js",
+      "mode": "0644"
+    },
+    {
       "src": "payload/app/www/leaderboard.html",
       "dest": "app/www/leaderboard.html",
       "mode": "0644"
@@ -65,6 +70,16 @@
     {
       "src": "payload/app/www/liftz.html",
       "dest": "app/www/liftz.html",
+      "mode": "0644"
+    },
+    {
+      "src": "payload/app/www/nfc-feedback.css",
+      "dest": "app/www/nfc-feedback.css",
+      "mode": "0644"
+    },
+    {
+      "src": "payload/app/www/nfc-feedback.js",
+      "dest": "app/www/nfc-feedback.js",
       "mode": "0644"
     },
     {
