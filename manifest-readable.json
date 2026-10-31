@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "version": "2026.10.31-dashboard.4",
+  "version": "2026.10.31-dashboard.6",
   "files": [
     {
       "src": "payload/app/ourcorz_bridge.py",
@@ -93,6 +93,16 @@
       "mode": "0644"
     },
     {
+      "src": "payload/app/www/power-menu.css",
+      "dest": "app/www/power-menu.css",
+      "mode": "0644"
+    },
+    {
+      "src": "payload/app/www/power-menu.js",
+      "dest": "app/www/power-menu.js",
+      "mode": "0644"
+    },
+    {
       "src": "payload/app/www/splash.html",
       "dest": "app/www/splash.html",
       "mode": "0644"
@@ -133,8 +143,18 @@
       "mode": "0644"
     },
     {
+      "src": "payload/runtime/corz_power.py",
+      "dest": "runtime/corz_power.py",
+      "mode": "0644"
+    },
+    {
       "src": "payload/runtime/hrserver.py",
       "dest": "runtime/hrserver.py",
+      "mode": "0644"
+    },
+    {
+      "src": "payload/runtime/setup_power_menu.py",
+      "dest": "runtime/setup_power_menu.py",
       "mode": "0644"
     },
     {
