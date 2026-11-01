@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": "2026.11.01-dashboard.10",
+  "version": "2026.11.01-dashboard.11",
   "package_url": "package.zip",
-  "sha256": "4027ce3d3274069eff3f916170a4d34964f8d433d37eafc141434f77e05809a1",
-  "size": 13325714
+  "sha256": "dc3239a5c675af3358123b84d9576abbd567bf261f27026ddc241078f31b8b7a",
+  "size": 13312774
 }
